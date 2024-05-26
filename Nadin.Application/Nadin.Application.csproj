@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Nadin.Infrastucture\Nadin.Infrastucture.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Commands\ProductCommand\" />
+    <Folder Include="Queries\ProductQuery\" />
+  </ItemGroup>
+
+</Project>
