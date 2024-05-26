@@ -9,3 +9,4 @@ C:\Users\noVin\source\Example\NadinSoftProject\Nadin.Domain\obj\Release\net8.0\N
 C:\Users\noVin\source\Example\NadinSoftProject\Nadin.Domain\obj\Release\net8.0\refint\Nadin.Domain.dll
 C:\Users\noVin\source\Example\NadinSoftProject\Nadin.Domain\obj\Release\net8.0\Nadin.Domain.pdb
 C:\Users\noVin\source\Example\NadinSoftProject\Nadin.Domain\obj\Release\net8.0\ref\Nadin.Domain.dll
+C:\Users\noVin\source\Example\NadinSoftProject\Nadin.Domain\obj\Release\net8.0\Nadin.Domain.sourcelink.json

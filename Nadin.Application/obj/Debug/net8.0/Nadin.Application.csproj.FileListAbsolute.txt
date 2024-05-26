@@ -15,3 +15,4 @@ C:\Users\noVin\source\Example\NadinSoftProject\Nadin.Application\bin\Debug\net8.
 C:\Users\noVin\source\Example\NadinSoftProject\Nadin.Application\bin\Debug\net8.0\Nadin.Domain.pdb
 C:\Users\noVin\source\Example\NadinSoftProject\Nadin.Application\obj\Debug\net8.0\Nadin.Application.csproj.AssemblyReference.cache
 C:\Users\noVin\source\Example\NadinSoftProject\Nadin.Application\obj\Debug\net8.0\Nadin.Application.csproj.CopyComplete
+C:\Users\noVin\source\Example\NadinSoftProject\Nadin.Application\obj\Debug\net8.0\Nadin.Application.sourcelink.json

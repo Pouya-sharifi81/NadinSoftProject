@@ -30,12 +30,16 @@ namespace Nadin.Infrastucture.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProductId"));
 
+                    b.Property<string>("CreatedBy")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<bool>("IsAvailable")
                         .HasColumnType("bit");
 
                     b.Property<string>("ManufactureEmail")
                         .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasColumnType("nvarchar(450)");
 
                     b.Property<string>("ManufacturePhone")
                         .IsRequired()
@@ -50,6 +54,9 @@ namespace Nadin.Infrastucture.Migrations
                         .HasColumnType("datetime2");
 
                     b.HasKey("ProductId");
+
+                    b.HasIndex("ManufactureEmail", "ProduceDate")
+                        .IsUnique();
 
                     b.ToTable("Products");
                 });

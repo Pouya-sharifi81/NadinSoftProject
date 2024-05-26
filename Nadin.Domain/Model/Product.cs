@@ -23,4 +23,6 @@ public class Product
     [Required(ErrorMessage = "Production date is required")]
     [DataType(DataType.Date)]
     public DateTime ProduceDate { get; set; }
+    public string CreatedBy { get; set; } // This will store the user who created the product
 }
+

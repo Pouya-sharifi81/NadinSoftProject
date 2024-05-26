@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "C2+F5aP3xxOQrDQEw5McNSikLjH5gShMcWtrF9lxDiJ5C8VWIBZ6HHV6ZFiwQVynreRTrsJWDvQZkPl5/PI6ig==",
+  "dgSpecHash": "u9LzmQed+3Ufz9hsr6vInRikVljfC+NtHYe2yYR95jhLk5QcYyH5BE06Hmy6L2NH8ijuCKyyLA4Wm5ot27Us+A==",
   "success": true,
   "projectFilePath": "C:\\Users\\noVin\\source\\Example\\NadinSoftProject\\Nadin.Application\\Nadin.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\noVin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\noVin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
+    "C:\\Users\\noVin\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\noVin\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\noVin\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\noVin\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\noVin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\noVin\\.nuget\\packages\\microsoft.data.sqlclient\\5.1.1\\microsoft.data.sqlclient.5.1.1.nupkg.sha512",

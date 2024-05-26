@@ -138,3 +138,9 @@ C:\Users\noVin\source\Example\NadinSoftProject\Nadin.WebApi\obj\Release\net8.0\r
 C:\Users\noVin\source\Example\NadinSoftProject\Nadin.WebApi\obj\Release\net8.0\Nadin.WebApi.pdb
 C:\Users\noVin\source\Example\NadinSoftProject\Nadin.WebApi\obj\Release\net8.0\Nadin.WebApi.genruntimeconfig.cache
 C:\Users\noVin\source\Example\NadinSoftProject\Nadin.WebApi\obj\Release\net8.0\ref\Nadin.WebApi.dll
+C:\Users\noVin\source\Example\NadinSoftProject\Nadin.WebApi\bin\Release\net8.0\MediatR.dll
+C:\Users\noVin\source\Example\NadinSoftProject\Nadin.WebApi\bin\Release\net8.0\MediatR.Contracts.dll
+C:\Users\noVin\source\Example\NadinSoftProject\Nadin.WebApi\bin\Release\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\noVin\source\Example\NadinSoftProject\Nadin.WebApi\bin\Release\net8.0\Nadin.Application.dll
+C:\Users\noVin\source\Example\NadinSoftProject\Nadin.WebApi\bin\Release\net8.0\Nadin.Application.pdb
+C:\Users\noVin\source\Example\NadinSoftProject\Nadin.WebApi\obj\Release\net8.0\Nadin.WebApi.sourcelink.json

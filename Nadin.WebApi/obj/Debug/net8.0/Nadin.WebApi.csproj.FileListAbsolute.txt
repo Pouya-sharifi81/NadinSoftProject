@@ -140,3 +140,7 @@ C:\Users\noVin\source\Example\NadinSoftProject\Nadin.WebApi\bin\Debug\net8.0\Nad
 C:\Users\noVin\source\Example\NadinSoftProject\Nadin.WebApi\bin\Debug\net8.0\Nadin.Domain.pdb
 C:\Users\noVin\source\Example\NadinSoftProject\Nadin.WebApi\bin\Debug\net8.0\Nadin.Application.dll
 C:\Users\noVin\source\Example\NadinSoftProject\Nadin.WebApi\bin\Debug\net8.0\Nadin.Application.pdb
+C:\Users\noVin\source\Example\NadinSoftProject\Nadin.WebApi\bin\Debug\net8.0\MediatR.dll
+C:\Users\noVin\source\Example\NadinSoftProject\Nadin.WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Users\noVin\source\Example\NadinSoftProject\Nadin.WebApi\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\noVin\source\Example\NadinSoftProject\Nadin.WebApi\obj\Debug\net8.0\Nadin.WebApi.sourcelink.json
