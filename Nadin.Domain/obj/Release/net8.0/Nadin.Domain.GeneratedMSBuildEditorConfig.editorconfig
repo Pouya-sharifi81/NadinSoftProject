@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Nadin.Domain
-build_property.ProjectDir = C:\Users\noVin\source\Example\NadinSoftProject\Nadin.Domain\
+build_property.ProjectDir = C:\Users\noVin\RiderProjects\NadinSoftProject2\Nadin.Domain\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

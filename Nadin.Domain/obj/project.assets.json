@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\noVin\\source\\Example\\NadinSoftProject\\Nadin.Domain\\Nadin.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\noVin\\RiderProjects\\NadinSoftProject2\\Nadin.Domain\\Nadin.Domain.csproj",
       "projectName": "Nadin.Domain",
-      "projectPath": "C:\\Users\\noVin\\source\\Example\\NadinSoftProject\\Nadin.Domain\\Nadin.Domain.csproj",
+      "projectPath": "C:\\Users\\noVin\\RiderProjects\\NadinSoftProject2\\Nadin.Domain\\Nadin.Domain.csproj",
       "packagesPath": "C:\\Users\\noVin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\noVin\\source\\Example\\NadinSoftProject\\Nadin.Domain\\obj\\",
+      "outputPath": "C:\\Users\\noVin\\RiderProjects\\NadinSoftProject2\\Nadin.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\noVin\\AppData\\Roaming\\NuGet\\NuGet.Config",

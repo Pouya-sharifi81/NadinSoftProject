@@ -1,4 +1,5 @@
 ﻿using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Nadin.Application.Commands.ProductCommand;
 using Nadin.Application.Queries.ProductQuery;
@@ -16,7 +17,7 @@ public class ProductsController : Controller
     {
         _mediator = mediator;
     }
-
+    [Authorize]
     [HttpGet]
     public async Task<ActionResult<List<Product>>> GetAll()
     {
@@ -26,6 +27,7 @@ public class ProductsController : Controller
     }
 
     [HttpGet("{id}")]
+    [Authorize] 
     public async Task<ActionResult<Product>> GetById(int id)
     {
         var query = new GetProductByIdQuery { Id = id };

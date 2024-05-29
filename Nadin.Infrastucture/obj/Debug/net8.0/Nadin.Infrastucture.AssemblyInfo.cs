@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nadin.Infrastucture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37cbb2620fe64bdd9140321da2f7a7bdf747b6f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0506b2ef72ddbde55b84f36fa7ad2aba78b37625")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nadin.Infrastucture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nadin.Infrastucture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

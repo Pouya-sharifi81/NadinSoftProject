@@ -10,3 +10,15 @@ C:\Users\noVin\source\Example\NadinSoftProject\Nadin.Domain\obj\Debug\net8.0\ref
 C:\Users\noVin\source\Example\NadinSoftProject\Nadin.Domain\obj\Debug\net8.0\Nadin.Domain.pdb
 C:\Users\noVin\source\Example\NadinSoftProject\Nadin.Domain\obj\Debug\net8.0\ref\Nadin.Domain.dll
 C:\Users\noVin\source\Example\NadinSoftProject\Nadin.Domain\obj\Debug\net8.0\Nadin.Domain.sourcelink.json
+C:\Users\noVin\RiderProjects\NadinSoftProject2\Nadin.Domain\bin\Debug\net8.0\Nadin.Domain.deps.json
+C:\Users\noVin\RiderProjects\NadinSoftProject2\Nadin.Domain\bin\Debug\net8.0\Nadin.Domain.dll
+C:\Users\noVin\RiderProjects\NadinSoftProject2\Nadin.Domain\bin\Debug\net8.0\Nadin.Domain.pdb
+C:\Users\noVin\RiderProjects\NadinSoftProject2\Nadin.Domain\obj\Debug\net8.0\Nadin.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noVin\RiderProjects\NadinSoftProject2\Nadin.Domain\obj\Debug\net8.0\Nadin.Domain.AssemblyInfoInputs.cache
+C:\Users\noVin\RiderProjects\NadinSoftProject2\Nadin.Domain\obj\Debug\net8.0\Nadin.Domain.AssemblyInfo.cs
+C:\Users\noVin\RiderProjects\NadinSoftProject2\Nadin.Domain\obj\Debug\net8.0\Nadin.Domain.csproj.CoreCompileInputs.cache
+C:\Users\noVin\RiderProjects\NadinSoftProject2\Nadin.Domain\obj\Debug\net8.0\Nadin.Domain.sourcelink.json
+C:\Users\noVin\RiderProjects\NadinSoftProject2\Nadin.Domain\obj\Debug\net8.0\Nadin.Domain.dll
+C:\Users\noVin\RiderProjects\NadinSoftProject2\Nadin.Domain\obj\Debug\net8.0\refint\Nadin.Domain.dll
+C:\Users\noVin\RiderProjects\NadinSoftProject2\Nadin.Domain\obj\Debug\net8.0\Nadin.Domain.pdb
+C:\Users\noVin\RiderProjects\NadinSoftProject2\Nadin.Domain\obj\Debug\net8.0\ref\Nadin.Domain.dll
