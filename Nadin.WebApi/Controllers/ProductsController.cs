@@ -36,6 +36,7 @@ public class ProductsController : Controller
     }
 
     [HttpPost]
+    [Authorize] 
     public async Task<ActionResult<Product>> Create(CreateProductCommand command)
     {
         var product = await _mediator.Send(command);
@@ -43,6 +44,7 @@ public class ProductsController : Controller
     }
 
     [HttpPut("{id}")]
+    [Authorize] 
     public async Task<IActionResult> Update(int id, UpdateProductCommand command)
     {
         if (id != command.Id)
@@ -55,6 +57,7 @@ public class ProductsController : Controller
     }
 
     [HttpDelete("{id}")]
+    [Authorize] 
     public async Task<IActionResult> Delete(int id)
     {
         var command = new DeleteProductCommand { Id = id };
