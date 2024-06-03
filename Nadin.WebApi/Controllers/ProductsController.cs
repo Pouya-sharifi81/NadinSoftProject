@@ -17,7 +17,7 @@ public class ProductsController : Controller
     {
         _mediator = mediator;
     }
-    [Authorize]
+    
     [HttpGet]
     public async Task<ActionResult<List<Product>>> GetAll()
     {
